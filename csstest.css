@@ -1,0 +1,24 @@
+body {
+	background-image: linear-gradient(to bottom right, #FFF6CC, #FFC69E);
+}
+p {
+	color: black;
+}
+
+.special-paragraph {
+	color: white;
+}
+h1{color: #6D32BC;
+text-align: center;}
+h2{color: #965EFF;
+text-align: center;}
+h3{color: #FF95B3;
+text-align: center;}
+p{color: #297CFF;
+text-align: center}
+p{font-style: italic;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+  i{text-align: center;}
